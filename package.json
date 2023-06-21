@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Define and replace variables in markdown file",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
